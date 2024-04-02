@@ -2,7 +2,7 @@
 
 ## Overview
 
-JsonDerulo is a lightweight and quirky database system that utilizes JSON as its file format, bringing a touch of humor and creativity to the world of data storage. With its unique features and playful approach, JsonDerulo aims to provide a fun and efficient solution for your database needs.
+JsonDerulo is a lightweight database system that utilizes JSON as its file format, bringing efficiency to the world of data storage. With its unique features and playful approach, JsonDerulo aims to provide a fun and efficient solution for your database needs.
 
 ## Features
 
@@ -24,7 +24,7 @@ JsonDerulo introduces an element of unpredictability by incorporating a small ch
 
 ### 4. Healthcheck Endpoint
 
-JsonDerulo includes a healthcheck endpoint that always returns a 200 status code, regardless of the actual health of the system. This light-hearted approach ensures that JsonDerulo maintains a positive and resilient attitude, even in the face of potential challenges.
+JsonDerulo includes a healthcheck endpoint that always returns a 200 status code, regardless of the actual health of the system. This approach ensures that JsonDerulo maintains a positive and resilient attitude, even in the face of potential challenges.
 
 ## Getting Started
 
