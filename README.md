@@ -1,4 +1,4 @@
-# JsonDerulo Database
+# Json Derulo
 
 ## Overview
 
@@ -46,11 +46,11 @@ To start using JsonDerulo, follow these simple steps:
 
     **Data**
 
-    Integers: represented with just the int and nothing else
+    - Integers: represented with just the int and nothing else
 
-    Strings: Must include the opening and closing double quotation mark
+    - Strings: Must include the opening and closing double quotation mark
 
-    Inline Data: Use the json format, (ex. {"key": 1})
+    - Inline Data: Use the json format, (ex. {"key": 1})
 
   `@` -> Fetch all data in the database
 
